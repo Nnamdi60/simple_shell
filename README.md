@@ -1,2 +1,1 @@
-# simple_shell
-The collaborative work
+ALX simple shell task between Christopher Christian Nnamdi and Richard Ini Brown
